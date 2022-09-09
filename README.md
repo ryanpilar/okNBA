@@ -25,9 +25,9 @@ Pandas to organize the player/team statistics and matplotlib to visually chart s
 
 ## 💪  Packages/Dependencies/Sources used 
 
-beautifulsoup4 | pytz | random | requests | datetime | numpy | matplotlib | pandas | statistics | unicodedata | pickle | 
+beautifulsoup4 | pytz | random | requests | datetime | numpy | matplotlib | pandas | statistics | unicodedata | pickle  
 
-- espn_api (https://github.com/cwendt94/espn-api) | 
+- espn_api (https://github.com/cwendt94/espn-api) 
 - basketball0reference.com
 
 ---
@@ -49,7 +49,7 @@ Then, open BETA.ipynb and run/install dependencies that you do not have. BETA wi
 ## 🔨  Improvements on the Application
 
 - a dynamic and responsive UI. Integrate a charts library. 
-- categories are currently hardcoded and need to be updated as per leauges changing
+- categories are currently hardcoded and need to be updated as per leauges changing. you can find them hardcoded in espn_scrapper.py
 - finda an accurate singular data source.
 - currently, there is no dependency architecture
 
