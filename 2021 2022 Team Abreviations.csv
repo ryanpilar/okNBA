@@ -1,0 +1,588 @@
+﻿player,pos,tm
+Duncan Robinson,G-F,MIA
+Omer Yurtseven,C,MIA
+Javonte Smart,G,MIA
+Andre Iguodala,G-F,MIA
+Victor Oladipo,G,MIA
+Markieff Morris,F,MIA
+Micah Potter,C,MIA
+KZ Okpala,F,MIA
+P.J. Tucker,F,MIA
+Gabe Vincent,G,MIA
+Caleb Martin  (TW),F,MIA
+Tyler Herro,G,MIA
+Udonis Haslem,F-C,MIA
+Max Strus,G,MIA
+Jimmy Butler,F-G,MIA
+D. J. Stewart Jr.,G,MIA
+Dewayne Dedmon,C,MIA
+Bam Adebayo,C-F,MIA
+Marcus Garrett  (TW),G,MIA
+Kyle Lowry,G,MIA
+Omer Yurtseven,C,MIA
+Dru Smith,G,MIA
+Raul Neto,G,WAS
+Montrezl Harrell,F-C,WAS
+Bradley Beal,G,WAS
+Corey Kispert,G-F,WAS
+Kentavious Caldwell-Pope,G,WAS
+Aaron Holiday,G,WAS
+Jay Huff,F-C,WAS
+Anthony Gill,F,WAS
+Rui Hachimura,F,WAS
+Isaiah Todd,F,WAS
+Deni Avdija,G-F,WAS
+Daniel Gafford,F,WAS
+Jordan Goodwin,G,WAS
+Kyle Kuzma,F,WAS
+Thomas Bryant,C,WAS
+Cassius Winston  (TW),G,WAS
+Spencer Dinwiddie,G,WAS
+Dāvis Bertāns,F,WAS
+Jordan Schakel,F,WAS
+Ishmail Wainright,F,TOR
+OG Anunoby,F,TOR
+Isaac Bonga,G,TOR
+Pascal Siakam,F,TOR
+Justin Champagnie  (TW),F,TOR
+Yuta Watanabe,F,TOR
+Goran Dragić,G,TOR
+Sam Dekker,F,TOR
+Freddie Gillespie,F,TOR
+Fred VanVleet,G,TOR
+Dalano Banton,G-F,TOR
+Khem Birch,C-F,TOR
+Precious Achiuwa,F,TOR
+Sviatoslav Mykhailiuk,G-F,TOR
+David Johnson  (TW),G,TOR
+Chris Boucher,F,TOR
+Reggie Perry,F-C,TOR
+Scottie Barnes,G-F,TOR
+Malachi Flynn,G,TOR
+Gary Trent Jr.,G,TOR
+Aaron Henry  (TW),F,PHI
+Isaiah Joe,G,PHI
+Joel Embiid,C,PHI
+Danny Green,G-F,PHI
+Tyrese Maxey,G,PHI
+Ben Simmons,G-F,PHI
+Furkan Korkmaz,G,PHI
+Paul Reed,F,PHI
+Shake Milton,G,PHI
+Grant Riller  (TW),G,PHI
+Andre Drummond,C,PHI
+Matisse Thybulle,G,PHI
+Shaquille Harrison,G,PHI
+Jaden Springer,G,PHI
+Seth Curry,G,PHI
+Charles Bassey,C,PHI
+Georges Niang,F,PHI
+Tobias Harris,F,PHI
+Robin Lopez,C,ORL
+Michael Carter-Williams,G,ORL
+Jeremiah Tilmon,C,ORL
+Gary Harris,G,ORL
+Ignas Brazdeikis  (TW),F,ORL
+R.J. Hampton,G,ORL
+Mo Bamba,C,ORL
+Moritz Wagner,F-C,ORL
+Jonathan Isaac,F,ORL
+Wendell Carter Jr.,C,ORL
+E'Twaun Moore,G-F,ORL
+Markelle Fultz,G,ORL
+Terrence Ross,F-G,ORL
+Hassani Gravett,G,ORL
+Jalen Suggs,G,ORL
+Chuma Okeke,F,ORL
+Jeff Dowtin,G,ORL
+Franz Wagner,G-F,ORL
+Cole Anthony,G,ORL
+Admiral Schofield,G-F,ORL
+Evan Fournier,G-F,NYK
+Miles McBride,G,NYK
+Kevin Knox,F,NYK
+Dwayne Bacon,G,NYK
+Quentin Grimes,G,NYK
+Mitchell Robinson,C,NYK
+Aamir Simms,F,NYK
+Jericho Sims  (TW),F,NYK
+RJ Barrett,G-F,NYK
+Taj Gibson,F,NYK
+Nerlens Noel,C-F,NYK
+Julius Randle,F-C,NYK
+Derrick Rose,G,NYK
+Kemba Walker,G,NYK
+Obi Toppin,F,NYK
+M.J. Walker,G,NYK
+Alec Burks,G,NYK
+Immanuel Quickley,G,NYK
+Wayne Selden,G-F,NYK
+George Hill,G,MIL
+Bobby Portis,F,MIL
+Elijah Bryant,G,MIL
+Grayson Allen,G,MIL
+Bobby Portis,F,MIL
+Giannis Antetokounmpo,F-G,MIL
+Johnny O'Bryant,F-C,MIL
+Donte DiVincenzo,G,MIL
+Georgios Kalaitzakis,G-F,MIL
+Jrue Holiday,G,MIL
+Brook Lopez,C,MIL
+Thanasis Antetokounmpo,F,MIL
+Sandro Mamukelashvili  (TW),F,MIL
+Khris Middleton,F-G,MIL
+Tremont Waters,G,MIL
+Semi Ojeleye,F,MIL
+Pat Connaughton,G,MIL
+Justin Robinson  (TW),G,MIL
+Rodney Hood,G-F,MIL
+Jordan Nwora,F,MIL
+Javin DeLaurier  (TW),F,MIL
+Solomon Hill,F,ATL
+Onyeka Okongwu,F,ATL
+DaQuan Jeffries,G-F,ATL
+Trae Young,G,ATL
+Sharife Cooper  (TW),G,ATL
+Bogdan Bogdanović,G,ATL
+Kevin Huerter,G,ATL
+Gorgui Dieng,C,ATL
+Danilo Gallinari,F,ATL
+Clint Capela,C,ATL
+Johnny Hamilton,C,ATL
+Jalen Johnson,F,ATL
+De'Andre Hunter,F,ATL
+Skylar Mays  (TW),G,ATL
+Lou Williams,G,ATL
+Cam Reddish,F,ATL
+Timothé Luwawu-Cabarrot,F,ATL
+John Collins,F,ATL
+Delon Wright,G,ATL
+Jahlil Okafor,C-F,ATL
+Keifer Sykes,G,IND
+Jeremy Lamb,G-F,IND
+Brad Wanamaker,G,IND
+T.J. Warren,F,IND
+Duane Washington Jr.  (TW),G,IND
+Justin Holiday,F,IND
+Brad Wanamaker,G,IND
+Myles Turner,C-F,IND
+Chris Duarte,G,IND
+Kelan Martin,F,IND
+Caris LeVert,G-F,IND
+Isaiah Jackson,F-C,IND
+Oshae Brissett,F,IND
+Domantas Sabonis,F-C,IND
+Torrey Craig,G-F,IND
+T.J. McConnell,G,IND
+Malcolm Brogdon,G,IND
+DeJon Jarreau  (TW),G,IND
+Terry Taylor,G-F,IND
+Goga Bitadze,C,IND
+Nate Hinton,G,IND
+Jarrett Allen,C-F,CLE
+Dean Wade,F,CLE
+Denzel Valentine,G,CLE
+Kevin Love,F,CLE
+Lauri Markkanen,F-C,CLE
+Isaac Okoro,G-F,CLE
+Kyle Guy,G,CLE
+Taurean Prince,F,CLE
+RJ Nembhard,G,CLE
+Isaiah Hartenstein,F,CLE
+Cedi Osman,F,CLE
+Mitch Ballock,G,CLE
+Lamar Stevens,F,CLE
+Collin Sexton,G,CLE
+Tacko Fall,C,CLE
+Mfiondu Kabengele,F,CLE
+Darius Garland,G,CLE
+Brodric Thomas  (TW),G,CLE
+Evan Mobley,F-C,CLE
+Dylan Windler,G-F,CLE
+Kevin Pangos,G,CLE
+Jarrett Allen,C-F,BOS
+Dean Wade,F,BOS
+Denzel Valentine,G,BOS
+Kevin Love,F,BOS
+Lauri Markkanen,F-C,BOS
+Isaac Okoro,G-F,BOS
+Kyle Guy,G,BOS
+Taurean Prince,F,BOS
+RJ Nembhard,G,BOS
+Isaiah Hartenstein,F,BOS
+Cedi Osman,F,BOS
+Mitch Ballock,G,BOS
+Lamar Stevens,F,BOS
+Collin Sexton,G,BOS
+Tacko Fall,C,BOS
+Mfiondu Kabengele,F,BOS
+Darius Garland,G,BOS
+Brodric Thomas  (TW),G,BOS
+Evan Mobley,F-C,BOS
+Dylan Windler,G-F,BOS
+Kevin Pangos,G,BOS
+DeAndre' Bembry,F,BRK
+Joe Harris,G,BRK
+Devontae Cacok,F,BRK
+James Harden,G,BRK
+Patty Mills,G,BRK
+Jahlil Okafor,C-F,BRK
+Landry Shamet,G,BRK
+Blake Griffin,F,BRK
+Day'Ron Sharpe,C,BRK
+Nicolas Claxton,F,BRK
+David Duke,G,BRK
+James Johnson,F,BRK
+Kevin Durant,F-G,BRK
+Kessler Edwards  (TW),F,BRK
+Cameron Thomas,G,BRK
+Kyrie Irving,G,BRK
+LaMarcus Aldridge,F-C,BRK
+Bruce Brown,G,BRK
+Edmond Sumner,G,BRK
+Paul Millsap,F,BRK
+Ayo Dosunmu,G,CHI
+Patrick Williams,F,CHI
+Tyler Cook,F,CHI
+Troy Brown Jr.,G-F,CHI
+Marko Simonovic,C,CHI
+Lonzo Ball,G,CHI
+Daniel Oturu,F-C,CHI
+Zach LaVine,G,CHI
+Devon Dotson  (TW),G,CHI
+Alex Caruso,G,CHI
+Coby White,G,CHI
+Matt Thomas,G,CHI
+Tony Bradley,F-C,CHI
+Nikola Vučević,C,CHI
+Stanley Johnson,F,CHI
+DeMar DeRozan,G-F,CHI
+Ryan Arcidiacono,G,CHI
+Ethan Thompson,G,CHI
+Javonte Green,F,CHI
+Derrick Jones Jr.,F,CHI
+Alize Johnson,F,CHI
+Arnoldas Kulboka  (TW),F,CHO
+LaMelo Ball,G,CHO
+Miles Bridges,G-F,CHO
+Scottie Lewis  (TW),G,CHO
+Vernon Carey Jr.,C,CHO
+P.J. Washington,F,CHO
+JT Thor,F,CHO
+Wesley Iwundu,F,CHO
+Terry Rozier,G,CHO
+Ish Smith,G,CHO
+Mason Plumlee,C-F,CHO
+Cody Martin,G-F,CHO
+Kelly Oubre Jr.,F,CHO
+James Bouknight,G,CHO
+Jalen McDaniels,F,CHO
+Xavier Sneed,F,CHO
+Kai Jones,F-C,CHO
+Gordon Hayward,F-G,CHO
+Cory Joseph,G,DET
+Trey Lyles,F,DET
+Jared Cunningham,G,DET
+Jerami Grant,F,DET
+Chris Smith  (TW),F,DET
+Saben Lee,G,DET
+Killian Hayes,G,DET
+Luka Garza,F-C,DET
+Isaiah Livers,F,DET
+Saddiq Bey,F,DET
+Jamorko Pickett  (TW),G-F,DET
+Cade Cunningham,G,DET
+Isaiah Stewart,F-C,DET
+Hamidou Diallo,G,DET
+Frank Jackson,G,DET
+Josh Jackson,F-G,DET
+Derrick Walton,G,DET
+Rodney McGruder,G,DET
+Kelly Olynyk,C-F,DET
+Cassius Stanley,G,DET
+Kris Dunn,G,MEM
+Jarrett Culver,G,MEM
+Shaq Buchanan,,MEM
+Steven Adams,C,MEM
+Xavier Tillman Sr.,F,MEM
+Brandon Clarke,F,MEM
+Justise Winslow,F,MEM
+Sam Merrill,G,MEM
+Tyus Jones,G,MEM
+Dillon Brooks,F-G,MEM
+Ziaire Williams,F,MEM
+De'Anthony Melton,G,MEM
+Jaren Jackson Jr.,F,MEM
+Santi Aldama,F,MEM
+John Konchar,G,MEM
+Kyle Anderson,F-G,MEM
+Killian Tillie  (TW),F,MEM
+Desmond Bane,G,MEM
+Ja Morant,G,MEM
+Sean McDermott,F,MEM
+Bones Hyland,G,DEN
+Bol Bol,F-C,DEN
+Tarik Black,C-F,DEN
+Jamal Murray,G,DEN
+Jeff Green,F,DEN
+Vlatko Čančar,F,DEN
+Davon Reed,G,DEN
+Michael Porter Jr.,F,DEN
+Will Barton,G,DEN
+JaMychal Green,F,DEN
+Matt Ryan,F,DEN
+Aaron Gordon,F,DEN
+Markus Howard  (TW),G,DEN
+Facundo Campazzo,G,DEN
+Nikola Jokić,C-F,DEN
+JaMychal Green,F,DEN
+Zeke Nnaji,F,DEN
+Will Barton,G,DEN
+Austin Rivers,G,DEN
+Monte Morris,G,DEN
+PJ Dozier,G,DEN
+Petr Cornelie  (TW),F,DEN
+Tim Hardaway Jr.,G,DAL
+Josh Green,G-F,DAL
+Dwight Powell,F-C,DAL
+Sterling Brown,G,DAL
+Trey Burke,G,DAL
+Luka Dončić,G-F,DAL
+Boban Marjanović,C,DAL
+Willie Cauley-Stein,F-C,DAL
+Jalen Brunson,G,DAL
+Eugene Omoruyi  (TW),F,DAL
+Tyrell Terry,G,DAL
+Maxi Kleber,F,DAL
+JaQuori McLaughlin  (TW),G,DAL
+Moses Brown,C,DAL
+Dorian Finney-Smith,F,DAL
+Frank Ntilikina,G,DAL
+Reggie Bullock,G-F,DAL
+Kristaps Porziņģis,F-C,DAL
+Tim Hardaway Jr.,G,MIN
+Josh Green,G-F,MIN
+Dwight Powell,F-C,MIN
+Sterling Brown,G,MIN
+Trey Burke,G,MIN
+Luka Dončić,G-F,MIN
+Boban Marjanović,C,MIN
+Willie Cauley-Stein,F-C,MIN
+Jalen Brunson,G,MIN
+Eugene Omoruyi  (TW),F,MIN
+Tyrell Terry,G,MIN
+Maxi Kleber,F,MIN
+JaQuori McLaughlin  (TW),G,MIN
+Moses Brown,C,MIN
+Dorian Finney-Smith,F,MIN
+Frank Ntilikina,G,MIN
+Reggie Bullock,G-F,MIN
+Kristaps Porziņģis,F-C,MIN
+Trey Murphy III,F,NOP
+Wenyen Gabriel,F,NOP
+Jared Harper,G,NOP
+Zion Williamson,F-C,NOP
+Didi Louzada,G,NOP
+Brandon Ingram,F,NOP
+Zylan Cheatham,F,NOP
+Jaxson Hayes,F,NOP
+Willy Hernangómez,C,NOP
+Didi Louzada,G,NOP
+Nickeil Alexander-Walker,G,NOP
+Herb Jones,F,NOP
+Naji Marshall,F,NOP
+Tomáš Satoranský,G,NOP
+Daulton Hommes  (TW),G-F,NOP
+Devonte' Graham,G,NOP
+Jonas Valančiūnas,C,NOP
+Jose Alvarado  (TW),G,NOP
+Garrett Temple,G,NOP
+Kira Lewis Jr.,G,NOP
+Josh Hart,G,NOP
+Otto Porter,F,GSW
+Damion Lee,G,GSW
+Langston Galloway,G,GSW
+Stephen Curry,G,GSW
+Nemanja Bjelica,F,GSW
+Mychal Mulder,G-F,GSW
+Andrew Wiggins,F-G,GSW
+Moses Moody,G,GSW
+James Wiseman,C,GSW
+Draymond Green,F,GSW
+Andre Iguodala,G-F,GSW
+Juan Toscano-Anderson,F,GSW
+Jordan Poole,G,GSW
+Chris Chiozza  (TW),G,GSW
+Gary Payton II,G,GSW
+Klay Thompson,G-F,GSW
+Jordan Bell,F,GSW
+Jonathan Kuminga,F,GSW
+Kevon Looney,F-C,GSW
+Avery Bradley,G,GSW
+Mike Muscala,F-C,OKC
+Derrick Favors,F-C,OKC
+Shai Gilgeous-Alexander,G,OKC
+Jeremiah Robinson-Earl,F,OKC
+Aleksej Pokusevski,F,OKC
+Darius Bazley,F,OKC
+Aaron Wiggins  (TW),G,OKC
+Théo Maledon,G,OKC
+Ty Jerome,G,OKC
+Vit Krejci,G,OKC
+Gabriel Deck,F,OKC
+Isaiah Roby,F,OKC
+Paul Watson  (TW),G,OKC
+Tre Mann,G,OKC
+Luguentz Dort,G,OKC
+D.J. Wilson,F,OKC
+Josh Giddey,G,OKC
+Kenrich Williams,G-F,OKC
+Rob Edwards,G,OKC
+Dwight Howard,C,LAL
+Kent Bazemore,G-F,LAL
+Russell Westbrook,G,LAL
+Rajon Rondo,G,LAL
+Talen Horton-Tucker,G-F,LAL
+LeBron James,F-G,LAL
+DeAndre Jordan,C,LAL
+Malik Monk,G,LAL
+Anthony Davis,F-C,LAL
+Trevelin Queen,G,LAL
+Kendrick Nunn,G,LAL
+Joel Ayayi  (TW),G,LAL
+Cameron Oliver,F,LAL
+Trevor Ariza,F,LAL
+Austin Reaves,G,LAL
+Cameron Oliver,F,LAL
+Wayne Ellington,G,LAL
+Carmelo Anthony,F,LAL
+Reggie Jackson,G,LAC
+Luke Kennard,G,LAC
+Eric Bledsoe,G,LAC
+Nicolas Batum,F-G,LAC
+Keon Johnson,G,LAC
+Terance Mann,G-F,LAC
+George King,G-F,LAC
+Justise Winslow,F,LAC
+Ivica Zubac,C,LAC
+Harry Giles,F-C,LAC
+Brandon Boston Jr.,G-F,LAC
+Marcus Morris,F,LAC
+Moses Wright,F,LAC
+Jason Preston,G,LAC
+Serge Ibaka,F-C,LAC
+Isaiah Hartenstein,F,LAC
+Kawhi Leonard,F,LAC
+Paul George,F,LAC
+Amir Coffey  (TW),G,LAC
+Frank Kaminsky,F-C,PHO
+Jae Crowder,F,PHO
+Devin Booker,G,PHO
+JaVale McGee,C,PHO
+Dario Šarić,F-C,PHO
+Deandre Ayton,C,PHO
+Chandler Hutchison  (TW),G,PHO
+Chris Paul,G,PHO
+Mikal Bridges,G,PHO
+Chasson Randle,G,PHO
+Cameron Payne,G,PHO
+Cameron Johnson,F,PHO
+Abdel Nader,F,PHO
+Jevon Carter,G,PHO
+Elfrid Payton,G,PHO
+Jalen Smith,F,PHO
+Tony Snell,G-F,POR
+Nassir Little,F,POR
+Damian Lillard,G,POR
+Greg Brown III,F,POR
+CJ Elleby,F,POR
+CJ McCollum,G,POR
+Dennis Smith Jr.,G,POR
+Trendon Watford  (TW),F,POR
+Robert Covington,F-C,POR
+Marquese Chriss,F,POR
+Norman Powell,G,POR
+Larry Nance Jr.,F-C,POR
+Patrick Patterson,F,POR
+Ben McLemore,G,POR
+Anfernee Simons,G,POR
+Quinn Cook,G,POR
+Cody Zeller,C-F,POR
+Jusuf Nurkić,C,POR
+Keljin Blevins  (TW),F,POR
+Davion Mitchell,G,SAC
+Robert Woodard,F,SAC
+Buddy Hield,G,SAC
+Neemias Queta  (TW),C,SAC
+Jahmi'us Ramsey,G,SAC
+Marvin Bagley III,F-C,SAC
+Maurice Harkless,F-G,SAC
+Chimezie Metu,F,SAC
+Harrison Barnes,F,SAC
+Alex Len,C,SAC
+Damian Jones,F-C,SAC
+De'Aaron Fox,G,SAC
+Emanuel Terry,F,SAC
+Terence Davis,G,SAC
+Tyrese Haliburton,G,SAC
+Matt Coleman III,G,SAC
+Richaun Holmes,F-C,SAC
+Tristan Thompson,F-C,SAC
+DJ Steward,G,SAC
+Doug McDermott,F,SAS
+Drew Eubanks,F,SAS
+Jaylen Morris,G,SAS
+Dejounte Murray,G,SAS
+Zach Collins,C-F,SAS
+Jakob Poeltl,C,SAS
+Lonnie Walker,G,SAS
+Joshua Primo,G,SAS
+Tre Jones,G,SAS
+Luka Šamanić,F,SAS
+Jock Landale,C,SAS
+Devin Vassell,G-F,SAS
+Keldon Johnson,G,SAS
+Bryn Forbes,G,SAS
+DaQuan Jeffries,G-F,SAS
+Al-Farouq Aminu,F,SAS
+Joe Wieskamp  (TW),G,SAS
+Derrick White,G,SAS
+Thaddeus Young,F,SAS
+Keita Bates-Diop,F,SAS
+Mike Conley,G,UTA
+Udoka Azubuike,C,UTA
+Royce O'Neale,F,UTA
+Trent Forrest  (TW),G,UTA
+Elijah Hughes,F,UTA
+Joe Ingles,F-G,UTA
+MaCio Teague,G,UTA
+Donovan Mitchell,G,UTA
+Eric Paschall,F,UTA
+Derrick Alston Jr.,G-F,UTA
+Rudy Gobert,C,UTA
+Miye Oni,G,UTA
+Malik Fitts,F,UTA
+Rudy Gay,F,UTA
+Bojan Bogdanović,G-F,UTA
+Marques Bolden,C,UTA
+Hassan Whiteside,C,UTA
+Jordan Clarkson,G,UTA
+Alperen Şengün,F,HOU
+Jae'Sean Tate,F,HOU
+John Wall,G,HOU
+David Nwaba,G,HOU
+D.J. Augustin,G,HOU
+Eric Gordon,G-F,HOU
+Usman Garuba,F,HOU
+Kenyon Martin Jr.,F,HOU
+Kevin Porter Jr.,G,HOU
+Daishen Nix,G,HOU
+Jalen Green,G,HOU
+Danuel House,G,HOU
+Anthony Lamb  (TW),F,HOU
+Daniel Theis,C,HOU
+Avery Bradley,G,HOU
+Dante Exum,G,HOU
+Josh Christopher,G,HOU
+Christian Wood,F,HOU
+Tyler Bey  (TW),F,HOU
