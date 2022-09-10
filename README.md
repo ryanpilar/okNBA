@@ -28,7 +28,7 @@ Pandas to organize the player/team statistics and matplotlib to visually chart s
 beautifulsoup4 | pytz | random | requests | datetime | numpy | matplotlib | pandas | statistics | unicodedata | pickle  
 
 - espn_api (https://github.com/cwendt94/espn-api) 
-- basketball0reference.com
+- basketball-reference.com
 
 ---
 
@@ -49,13 +49,13 @@ Then, open BETA.ipynb and run/install dependencies that you do not have. BETA wi
 ## 🔨  Improvements on the Application
 
 - a dynamic and responsive UI. Integrate a charts library. 
-- categories are currently hardcoded and need to be updated as per leauges changing. you can find them hardcoded in espn_scrapper.py
-- finda an accurate singular data source.
+- categories are currently hardcoded and need to be updated as Fantasy leagues are changed. you can find them hardcoded in espn_scrapper.py
+- find an accurate singular data source, so data normalization can be off-loaded
 - currently, there is no dependency architecture
 
 ## 🍪  Things to add
 
-Obtain your ESPN cookies! ESPN_S2 and SWID cookie are values needed to authenticate your private fantasy sports leagues. Go find them!
+- Obtain your ESPN cookies! ESPN_S2 and SWID cookie are values needed to authenticate your private fantasy sports leagues. Go find them!
 
  ---
  
