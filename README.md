@@ -74,6 +74,17 @@ class run() - line 490
 - scrapes web data, creats pandas, manually deals with some exceptions,  checks for data object duplicates
 - rank orders every single player
 
+class Data_Center()
+- The Data_Center is the main storage of all objects used and referenced in the program.
+- It creates and stores AllPlayerData which Player data can be accessed
+- It creates stores private leagueID, URLs, various cookies and keys
+- It creates stores Private League Data
+- It creates stores NBA Team Data and their corresponding schedules
+
+Uses the requests library, to navigate ESPN and submits the appropriate cookies and keys to access said private league. Retrieve and update the private league object from ‘espn_api’, and store this object as a self variable in the Data_Center
+
+Functions that compare private teams and player matchups, with corresponding charts
+
 ---
 
 ## 🍪  Things to add
