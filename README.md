@@ -17,6 +17,8 @@ Based on the user's predefined categories (FA%, 3's, GP, ...categories), okNBA c
 
 Pandas to organize the player/team statistics and matplotlib to visually chart said data. 
 
+---
+
 ## 🤷‍♂️  Who is this for? 
 
 - It's for people that don't know a thing about basketball and don't want to end up last place in their fantasy pool
@@ -46,12 +48,42 @@ Then, open BETA.ipynb and run/install dependencies that you do not have. BETA wi
 
 ---
 
+## 😵 Class / Method Summary
+
+scraper() 
+- Scrapes basketball reference.com
+- Returns a PD datafrane
+
+class Player 
+- Stores player data
+- Makes a dictionary entry in AllPlayersData
+- Various getters/setters
+- Various data organizers
+
+class AllPlaersData() 
+- Main dictionary that holds every players NBA stats
+- Key: a Player() object
+- Value: alist representing stats and data
+- functions to handle the normalization of player strings (TJ vs. T.J.)
+- combines multiple data sets and manages some exceptions, handles duplicate entries (mid season trade problem)
+- sorting functions, key functions
+- imports double double data from CSV
+
+class run() - line 490
+- coordinates the operations between sub classes, initiates the creation of the AllplayersData object
+- scrapes web data, creats pandas, manually deals with some exceptions,  checks for data object duplicates
+- rank orders every single player
+
+---
+
 ## 🔨  Improvements on the Application
 
 - a dynamic and responsive UI. Integrate a charts library. 
 - categories are currently hardcoded and need to be updated as Fantasy leagues are changed. you can find them hardcoded in espn_scrapper.py
 - find an accurate singular data source, so data normalization can be off-loaded
 - currently, there is no dependency architecture
+
+---
 
 ## 🍪  Things to add
 
