@@ -21,7 +21,7 @@ Pandas to organize the player/team statistics and matplotlib to visually chart s
 
 ## 🤷‍♂️  Who is this for? 
 
-- It's for people that don't know a thing about basketball and don't want to end up last place in their fantasy pool
+It's for people that don't know a thing about basketball and don't want to end up last place in their fantasy pool
 
 ---
 
@@ -76,6 +76,12 @@ class run() - line 490
 
 ---
 
+## 🍪  Things to add
+
+Obtain your ESPN cookies! ESPN_S2 and SWID cookie are values needed to authenticate your private fantasy sports leagues. Go find them!
+
+ ---
+
 ## 🔨  Improvements on the Application
 
 - a dynamic and responsive UI. Integrate a charts library. 
@@ -85,10 +91,5 @@ class run() - line 490
 
 ---
 
-## 🍪  Things to add
-
-- Obtain your ESPN cookies! ESPN_S2 and SWID cookie are values needed to authenticate your private fantasy sports leagues. Go find them!
-
- ---
  
  Have fun testing and improving it! 😎
