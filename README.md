@@ -69,7 +69,7 @@ class AllPlaersData()
 - sorting functions, key functions
 - imports double double data from CSV
 
-class run() - line 490
+class run() 
 - coordinates the operations between sub classes, initiates the creation of the AllplayersData object
 - scrapes web data, creats pandas, manually deals with some exceptions,  checks for data object duplicates
 - rank orders every single player
