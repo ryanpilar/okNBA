@@ -30,7 +30,7 @@ It's for people that don't know a thing about basketball and don't want to end u
 beautifulsoup4 | pytz | random | requests | datetime | numpy | matplotlib | pandas | statistics | unicodedata | pickle  
 
 - espn_api (https://github.com/cwendt94/espn-api) 
-- basketball-reference.com
+- most data scraped from here: https://basketball-reference.com
 
 ---
 
