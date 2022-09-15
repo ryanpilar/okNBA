@@ -50,17 +50,17 @@ Then, open BETA.ipynb and run/install dependencies that you do not have. BETA wi
 
 ## 😵 Class / Method Summary
 
-scraper() 
+**scraper()** 
 - Scrapes basketball reference.com
 - Returns a PD datafrane
 
-class Player 
+**class Player** 
 - Stores player data
 - Makes a dictionary entry in AllPlayersData
 - Various getters/setters
 - Various data organizers
 
-class AllPlaersData() 
+**class AllPlayersData()** 
 - Main dictionary that holds every players NBA stats
 - Key: a Player() object
 - Value: alist representing stats and data
@@ -69,12 +69,12 @@ class AllPlaersData()
 - sorting functions, key functions
 - imports double double data from CSV
 
-class run() 
+**class Run()** 
 - coordinates the operations between sub classes, initiates the creation of the AllplayersData object
 - scrapes web data, creats pandas, manually deals with some exceptions,  checks for data object duplicates
 - rank orders every single player
 
-class Data_Center()
+**class Data_Center()**
 - The Data_Center is the main storage of all objects used and referenced in the program.
 - It creates and stores AllPlayerData which Player data can be accessed
 - It creates stores private leagueID, URLs, various cookies and keys
